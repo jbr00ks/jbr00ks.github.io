@@ -36,4 +36,10 @@ var app5 = new Vue({
 		this.message = this.message.split('').reverse().join('')
 		}
 	}
+})
+var app6 = new Vue({
+	el: '#app-6',
+	data: {
+		message: 'Hello Vue!'
+	}
 });
