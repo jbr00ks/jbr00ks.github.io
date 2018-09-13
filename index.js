@@ -2,6 +2,10 @@ Vue.component('todo-item', {
   template: '<li>This is a todo</li>'
 })
 
+var app7 = new Vue({
+  el: '#app-7'
+})
+
 var app = new Vue({
 	el: '#app',
 	data: {
