@@ -50,4 +50,7 @@ var app6 = new Vue({
 	data: {
 		message: 'Hello Vue!'
 	}
+})
+new Vue({
+	el: '#components-demo'
 });
