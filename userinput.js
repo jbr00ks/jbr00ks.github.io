@@ -16,7 +16,7 @@ new Vue({
     checked: false
   }
 })
-var checknames new Vue({
+new Vue({
   el: '#example-3',
   data: {
     checkedNames: []
