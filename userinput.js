@@ -1,22 +1,22 @@
-var text new Vue({
+new Vue({
   el: '#example-1',
   data: {
     message: ''
   }
 })
-var multiline new Vue({
+new Vue({
   el: '#example-textarea',
   data: {
     message: ''
   }
 })
-var checkbox new Vue({
+new Vue({
   el: '#example-2',
   data: {
     checked: false
   }
 })
-var checkednames new Vue({
+new Vue({
   el: '#example-3',
   data: {
     checkedNames: []
