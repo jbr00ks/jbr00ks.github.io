@@ -1,5 +1,8 @@
 var text new Vue({
   el: '#example-1',
+  data: {
+    message: ''
+  }
 })
 var multitext new Vue({
   el: '#example-2',
