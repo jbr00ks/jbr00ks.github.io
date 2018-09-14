@@ -1,7 +1,7 @@
 var text new Vue({
   el: '#example-1',
   data: {
-    message: ''
+    message:
   }
 })
 var multitext new Vue({
