@@ -1,14 +1,20 @@
-var text new Vue({
+new Vue({
   el: '#example-1',
   data: {
-    message:
+    message: ''
   }
 })
-var multitext new Vue({
-  el: '#example-2',
+new Vue({
+  el: '#example-textarea',
+  data: {
+    message: ''
+  }
 })
-var checkbox new Vue({
-  el: '#example',
+new Vue({
+  el: '#example-2',
+  data: {
+    checked: false
+  }
 })
 var checknames new Vue({
   el: '#example-3',
