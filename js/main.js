@@ -1,1 +1,1 @@
-console.log("This is file 1"),console.log("JavaScript stored here"),console.log("This is file 2"),alert("This alert is the result of concatenated JS files!");
+console.log("This is from file1.js"),console.log("JavaScript stored here"),console.log("This is from file2.js"),alert("This alert is the result of concatenated JS files!");
